@@ -1,7 +1,7 @@
 {
   "name": "name-puzzle",
   "version": "0.1.0",
-  "homepage": "http://egonzal03.github.io/name-puzzle",
+  "homepage": "https://egonzal03.github.io/name-puzzle",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
